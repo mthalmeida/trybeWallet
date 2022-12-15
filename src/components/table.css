@@ -1,0 +1,32 @@
+th {
+  background-color: #005560;
+  color: white;
+  font-size: 10px;
+  text-transform: uppercase;
+  border-radius: 3px;
+  padding: 25px 30px;
+  width: 100%;
+}
+
+td {
+  padding: 10px;
+}
+
+.tableWallet {
+  background-color: #95a5a66d;
+  font-size: 15px;
+  text-align: center;
+}
+
+.tableComplete {
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  margin: 20px;
+}
+
+.textNotWallet {
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 80px;
+}

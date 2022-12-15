@@ -1,0 +1,73 @@
+.containerForm {
+  max-width: 38em;
+  padding: 1em 3em 2em 3em;
+  margin: 7em auto;
+  background-color: #fff;
+  border-radius: 4.2px;
+  box-shadow: 0px 3px 10px -2px rgba(0, 0, 0, 0.2);
+
+}
+
+.walletForm {
+  padding: 1em;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: #b9b9b9;
+  background-color: #e3e3e3;
+}
+
+.inputFormWallet {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.inputFormWallet,
+select {
+  width: 100%;
+  padding: 0.5em;
+  line-height: 1.4;
+  background-color: #f9f9f9;
+  border: 1px solid #e5e5e5;
+  border-radius: 3px;
+}
+
+select {
+  height: 3em;
+  line-height: 2;
+  color: #585858;
+  margin-top: -5em;
+}
+
+select option {
+  background-color: #002d33c8;
+  color: #fff;
+}
+
+.titleInput {
+  font-size: 0.8em;
+}
+
+.btnAddWallet {
+  color: #fff;
+  background-color: #005560;
+  outline: none;
+  border: 0;
+  color: #fff;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  margin-top: 20px;
+  border-radius: 2px;
+  cursor: pointer;
+  float: right;
+}
+
+.divBtn {
+  height: 50px;
+}
+
+@media only screen and (max-width: 540px) {
+  .col-half {
+    width: 100%;
+    padding-right: 0;
+  }
+}
