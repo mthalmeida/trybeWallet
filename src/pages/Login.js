@@ -49,7 +49,7 @@ class Login extends React.Component {
 
       <div className="container">
         <form className="box">
-          <p className="text-center">Trybe Wallet</p>
+          <p className="text-center">Wallet Manager</p>
 
           <div className="input-container">
             <label htmlFor="email">

@@ -12,10 +12,10 @@ class Header extends Component {
     }, 0);
     return (
       <header className="containerHeader">
-        <p className="titleHeader">Trybe Wallet</p>
+        <p className="titleHeader">Wallet Manager</p>
 
         <p data-testid="header-currency-field" className="currency">
-          R$
+          TOTAL: R$
         </p>
 
         <p data-testid="total-field" className="value">{sumValue.toFixed(2)}</p>
