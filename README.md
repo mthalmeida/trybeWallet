@@ -55,6 +55,10 @@ Run the following command inside the cloned folder with the command below:
 Open the project with the following command:
 - npm start
 
+### Login
+- email: email@email.com
+- password: 123456
+
 <br>
 <br>
 
